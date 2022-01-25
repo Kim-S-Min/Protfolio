@@ -7,10 +7,12 @@
 + 주소: 경기도 고양시 덕양구
 + 이메일: sangminkim789@gmail.com
 + Github: Kim-S-Min
-<pre><code>
+<pre>
+<code>
    프론트엔드 개발의 뚜렷한 input, output에 빠지게되어 새로운 언어, 라이브러리, 문법 공부를 좋아하게된
    신입 프론트엔드 개발자 김상민입니다.
-</code></pre>
+</code>
+</pre>
 ## Projects
 
 ## Education
