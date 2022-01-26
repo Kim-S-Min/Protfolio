@@ -1,4 +1,4 @@
-# 새로운 도전을 즐기는 신입 프론트엔드 개발자 김상민입니다!
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <img src="https://user-images.githubusercontent.com/79624406/150952276-57bbc9b6-3d56-4eef-bfe5-c6d31247e0e9.jpg" width="150"/>
 
 ## Introduce
@@ -15,8 +15,8 @@
 </pre>
 ## Projects
 2021.12 ~ 현재 | 중고거래 모바일 웹 서비스 (우동마켓) - https://github.com/hometown-market/HomeTown_Market  
-2021.06 ~ 2021.08 | OTT 종합 서비스 (SHADE) - 
-
+2021.06 ~ 2021.08 | OTT 종합 서비스 (SHADE) - https://github.com/bitacademy-1team/shade  
+2021.06 ~ 2021.06 | 노마드 
 
 ## Education
 
