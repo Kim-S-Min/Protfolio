@@ -21,7 +21,7 @@
 2021.04 ~ 2021.04 | 웹 게시판 (개인) - https://github.com/Kim-S-Min/myportal  
 
 ## Experience
-회사: (주) 아인  
+|회사: (주) 아인  
 일시: 2021.10 ~ 2021.12  
 업무: HTML 퍼블리싱  
 
