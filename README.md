@@ -18,7 +18,7 @@
 2021.06 ~ 2021.08 | OTT 종합 서비스 (팀) - https://github.com/bitacademy-1team/shade  
 2021.06 ~ 2021.06 | 영화 평점 웹 서비스 (개인) - https://github.com/Kim-S-Min/movie_app_2021  
 2021.04 ~ 2021.04 | 개인 블로그 (개인) - https://github.com/Kim-S-Min/Jblog  
-
+2021.04 ~ 2021.04 | 웹 게시판 (개인) - https://github.com/Kim-S-Min/myportal  
 
 ## Education
 
