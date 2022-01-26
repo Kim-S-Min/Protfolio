@@ -21,6 +21,9 @@
 2021.04 ~ 2021.04 | 웹 게시판 (개인) - https://github.com/Kim-S-Min/myportal  
 
 ## Education
+기관: 비트교육센터 - 강남  
+일시: 2021.02 ~ 2021.08  
+교육: 클라우드를 활용한 웹&amp 모바일 컨텐츠 개발 실무 과정
 
 ## Experience
 
