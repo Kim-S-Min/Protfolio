@@ -21,12 +21,11 @@
 2021.04 ~ 2021.04 | 웹 게시판 (개인) - https://github.com/Kim-S-Min/myportal  
 
 ## Experience
-
+회사: (주) 아인  
+일시: 2021.10 ~ 2021.12  
+업무: HTML 퍼블리싱  
 
 ## Education
 기관: 비트교육센터 - 강남  
 일시: 2021.02 ~ 2021.08  
 교육: 클라우드를 활용한 웹&amp 모바일 컨텐츠 개발 실무 과정
-
-## Skills
-https://img.shields.io/badge/<![java](https://user-images.githubusercontent.com/79624406/151208169-d345fce6-d069-40c1-9e98-ff77a38a9cc8.svg)>-<java>-<#007396>
