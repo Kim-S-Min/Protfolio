@@ -14,7 +14,9 @@
 </code>
 </pre>
 ## Projects
-중고거래 모바일 웹 서비스 (우동마켓)
+중고거래 모바일 웹 서비스 (우동마켓) - 2021.12 ~ 현재
+https://github.com/hometown-market/HomeTown_Market
+
 
 
 ## Education
