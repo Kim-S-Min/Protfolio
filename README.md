@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)</br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=SangminKim&fontSize=90)</br>
 <img src="https://user-images.githubusercontent.com/79624406/150952276-57bbc9b6-3d56-4eef-bfe5-c6d31247e0e9.jpg" width="150"/>
 
 ## Introduce
