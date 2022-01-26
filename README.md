@@ -14,7 +14,7 @@
 </code>
 </pre>
 ## Projects
-2021.12 ~ 현재 | 중고거래 모바일 웹 서비스 (우동마켓) - https://github.com/hometown-market/HomeTown_Market
+2021.12 ~ 현재 | 중고거래 모바일 웹 서비스 (우동마켓) - https://github.com/hometown-market/HomeTown_Market  
 2021.06 ~ 2021.08 | OTT 종합 서비스 (SHADE) - 
 
 
