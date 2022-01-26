@@ -14,18 +14,18 @@
 </code>
 </pre>
 ## Projects
-2021.12 ~ 현재 | 중고거래 모바일 웹 서비스 (팀) - https://github.com/hometown-market/HomeTown_Market  
-2021.06 ~ 2021.08 | OTT 종합 서비스 (팀) - https://github.com/bitacademy-1team/shade  
-2021.06 ~ 2021.06 | 영화 평점 웹 서비스 (개인) - https://github.com/Kim-S-Min/movie_app_2021  
-2021.04 ~ 2021.04 | 개인 블로그 (개인) - https://github.com/Kim-S-Min/Jblog  
-2021.04 ~ 2021.04 | 웹 게시판 (개인) - https://github.com/Kim-S-Min/myportal  
+>  2021.12 ~ 현재 | 중고거래 모바일 웹 서비스 (팀) - https://github.com/hometown-market/HomeTown_Market  
+>  2021.06 ~ 2021.08 | OTT 종합 서비스 (팀) - https://github.com/bitacademy-1team/shade  
+>  2021.06 ~ 2021.06 | 영화 평점 웹 서비스 (개인) - https://github.com/Kim-S-Min/movie_app_2021  
+>  2021.04 ~ 2021.04 | 개인 블로그 (개인) - https://github.com/Kim-S-Min/Jblog  
+>  2021.04 ~ 2021.04 | 웹 게시판 (개인) - https://github.com/Kim-S-Min/myportal  
 
 ## Experience
-|회사: (주) 아인  
-일시: 2021.10 ~ 2021.12  
-업무: HTML 퍼블리싱  
+>  회사: (주) 아인  
+>  일시: 2021.10 ~ 2021.12  
+>  업무: HTML 퍼블리싱  
 
 ## Education
-기관: 비트교육센터 - 강남  
-일시: 2021.02 ~ 2021.08  
-교육: 클라우드를 활용한 웹&amp 모바일 컨텐츠 개발 실무 과정
+>  기관: 비트교육센터 - 강남  
+>  일시: 2021.02 ~ 2021.08  
+>  교육: 클라우드를 활용한 웹&amp 모바일 컨텐츠 개발 실무 과정
